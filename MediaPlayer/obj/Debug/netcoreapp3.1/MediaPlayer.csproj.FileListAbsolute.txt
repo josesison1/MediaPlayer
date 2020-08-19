@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.AssemblyInfo.cs
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.exe
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.deps.json
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.runtimeconfig.json
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.runtimeconfig.dev.json
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.dll
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\bin\Debug\netcoreapp3.1\MediaPlayer.pdb
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.dll
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.pdb
+C:\Users\user\source\repos\MediaPlayer\MediaPlayer\obj\Debug\netcoreapp3.1\MediaPlayer.genruntimeconfig.cache
